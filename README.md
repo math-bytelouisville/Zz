@@ -1,4 +1,4 @@
-# Blind Zombies (Zz)
+# Blind Zombies Zz
 
 **Mod pour Project Zomboid — Build 41.78.21**
 
