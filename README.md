@@ -4,7 +4,7 @@
 
 ## Présentation
 
-Blind Zombies est un projet de modification du comportement des zombies dans Project Zomboid.
+Blind Zombies est un projet de modification du comportement des zombies dans Project Zomboid Faites de A à Z avec Chatgpt 6 et Codex 6.1 Sol
 
 L'objectif est de rendre les zombies aveugles au joueur tout en conservant leur capacité à réagir aux sons, notamment aux coups de feu.
 
